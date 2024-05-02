@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BirlikteOynayanOyuncu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmOyuncuEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmTürüEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyuncuEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyuncuEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyuncuFilmEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyuncuGuncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OyuncuSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TüreGöreRating.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YonetmenCektigi_Odul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YonetmenOyuncularListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenGüncelleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YönetmenSilme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
